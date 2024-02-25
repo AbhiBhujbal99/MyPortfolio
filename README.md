@@ -1,2 +1,2 @@
 # MyPortfolio
-This is my portfolio website built using HTML, CSS, JavaScript.
+This is my personal portfolio website built using HTML, CSS, JavaScript.
